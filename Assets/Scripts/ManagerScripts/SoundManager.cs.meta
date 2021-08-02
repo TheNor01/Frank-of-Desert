@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 50434f38b0253c2469da847dcfa87f0d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - soundTrack: {fileID: 8300000, guid: 92312de85bebf6446b077648474df435, type: 3}
+  - fireAttack: {fileID: 8300000, guid: 95f76696ad579b44d81bf6205e6c1231, type: 3}
+  - lost: {fileID: 8300000, guid: 92a602c489a56f3408b8aff8da77d21a, type: 3}
+  - enemyDeath: {fileID: 8300000, guid: acc0b4d6d0914094681139bb44b8b25b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
